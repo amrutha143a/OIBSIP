@@ -43,7 +43,7 @@ def wishMe():
   else:
     speak("Good Evening!")
 
-  speak("I am alekhyap . How may I help you?")
+  speak("I am Ammu . How may I help you?")
 
 def time():
   Time = datetime.datetime.now().strftime("%H:%M:%S")
